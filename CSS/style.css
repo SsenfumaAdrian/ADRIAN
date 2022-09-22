@@ -1,0 +1,67 @@
+/* ELEMENT SELECTORS */
+h1{
+    color: rgb(75, 16, 16);
+    font-size:20px ;
+    font-style: italic;
+
+}
+h2{
+    color: rgb(92, 143, 41);
+    font-size: 2rem;
+    font-style:italic;
+}
+p{
+  color: grey  
+}
+/* ID */
+#heading {
+color: darkgreen;background:black;
+height:45px;
+}
+/* COLOR PROPERTIES */
+/* COLOR BACKGROUND-COLO */
+P{
+    color: darkgreen;
+}
+body{
+    background: rgb(18, 31, 5);
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', 'Segoe WP', system-ui, Arial, Sans-Serif;
+    -webkit-font-smoothing: antialiased;
+}
+.navbar {
+    background: blueviolet;
+    height: 90px;
+    shape-margin: 2cm;
+
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+  Iphone13 pro max.jpg {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+  }
+  
